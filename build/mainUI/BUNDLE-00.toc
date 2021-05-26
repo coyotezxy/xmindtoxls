@@ -1,0 +1,3 @@
+([('mainUI',
+   '/Users/coyote/Desktop/git_repository/xmindtoxls/dist/mainUI',
+   'EXECUTABLE')],)
